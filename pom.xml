@@ -154,8 +154,8 @@
       </plugin>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
-        <artifactId>cobertura</artifactId>
-        <version>2.13</version>
+        <artifactId>cobertura-maven-plugin</artifactId>
+        <version>2.5.1</version>
         <configuration>
           <formats>
             <format>xml</format>
